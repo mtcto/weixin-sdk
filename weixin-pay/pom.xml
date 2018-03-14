@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>weixin-parent</artifactId>
-        <groupId>cn.com.riversoft</groupId>
-        <version>0.9.7-SNAPSHOT</version>
+        <groupId>com.github.shiqiyue</groupId>
+        <version>0.9.7</version>
         <relativePath>../weixin-parent/</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -14,7 +14,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>cn.com.riversoft</groupId>
+            <groupId>com.github.shiqiyue</groupId>
             <artifactId>weixin-common</artifactId>
             <version>${project.version}</version>
         </dependency>
