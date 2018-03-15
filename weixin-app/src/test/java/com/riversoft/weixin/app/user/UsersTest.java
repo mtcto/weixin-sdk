@@ -8,7 +8,7 @@ import org.junit.Test;
 import com.riversoft.weixin.app.base.AppSetting;
 
 /**
- * @borball on 11/7/2016.
+ * @author borball on 11/7/2016.
  */
 public class UsersTest {
 

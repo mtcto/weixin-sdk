@@ -5,7 +5,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * @borball on 6/2/2016.
+ * @author borball on 6/2/2016.
  */
 public class SignaturesTest {
 

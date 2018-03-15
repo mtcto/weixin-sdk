@@ -7,7 +7,7 @@ import com.fasterxml.jackson.databind.JsonDeserializer;
 import java.io.IOException;
 
 /**
- * @borball on 5/20/2016.
+ * @author borball on 5/20/2016.
  */
 public class StateDeserializer extends JsonDeserializer<AvailableState> {
 

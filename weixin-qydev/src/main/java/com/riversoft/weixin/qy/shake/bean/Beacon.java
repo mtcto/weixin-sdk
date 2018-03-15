@@ -1,7 +1,7 @@
 package com.riversoft.weixin.qy.shake.bean;
 
 /**
- * @borball on 3/27/2016.
+ * @author borball on 3/27/2016.
  */
 public class Beacon {
 

@@ -9,7 +9,7 @@ import com.riversoft.weixin.pay.base.PaySetting;
 import com.riversoft.weixin.pay.payment.bean.Signature;
 
 /**
- * @borball on 12/29/2016.
+ * @author borball on 12/29/2016.
  */
 public class Signatures {
 	

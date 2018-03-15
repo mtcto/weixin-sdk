@@ -10,7 +10,7 @@ import java.util.List;
 import static org.junit.Assert.assertNotNull;
 
 /**
- * @borball on 6/3/2016.
+ * @author borball on 6/3/2016.
  */
 public class StatsTest {
 

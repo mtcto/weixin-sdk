@@ -1,7 +1,7 @@
 package com.riversoft.weixin.pay.payment.bean;
 
 /**
- * @borball on 6/2/2016.
+ * @author borball on 6/2/2016.
  */
 public class Signature {
 

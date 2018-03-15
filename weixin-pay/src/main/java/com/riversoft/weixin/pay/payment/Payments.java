@@ -22,7 +22,7 @@ import java.util.SortedMap;
 
 /**
  * 支付相关: 小程序或者公众号
- * @borball on 5/15/2016.
+ * @author borball on 5/15/2016.
  */
 public class Payments {
 

@@ -9,7 +9,7 @@ import com.riversoft.weixin.common.util.DateSerializer;
 import java.util.Date;
 
 /**
- * @borball on 3/17/2016.
+ * @author borball on 3/17/2016.
  */
 public class Order {
 

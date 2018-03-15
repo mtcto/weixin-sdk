@@ -13,8 +13,9 @@ import java.util.Arrays;
 
 /**
  * SHA1 class
- * <p/>
+ * <p>
  * 计算公众平台的消息签名接口.
+ * </p>
  */
 public class SHA1 {
 

@@ -1,7 +1,7 @@
 package com.riversoft.weixin.common.jsapi;
 
 /**
- * @borball on 2/28/2017.
+ * @author borball on 2/28/2017.
  */
 public class WxCardAPISignature {
 

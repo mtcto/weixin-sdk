@@ -17,7 +17,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @borball on 5/25/2016.
+ * @author borball on 5/25/2016.
  */
 public class Stats {
 

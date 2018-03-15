@@ -4,7 +4,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
  * 个性化菜单
- * @borball on 6/7/2016.
+ * @author borball on 6/7/2016.
  */
 public class RuleMenu extends Menu {
 

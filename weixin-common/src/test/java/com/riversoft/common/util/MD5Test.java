@@ -8,7 +8,7 @@ import java.lang.annotation.Target;
 import java.security.MessageDigest;
 
 /**
- * @borball on 12/29/2016.
+ * @author borball on 12/29/2016.
  */
 public class MD5Test {
 

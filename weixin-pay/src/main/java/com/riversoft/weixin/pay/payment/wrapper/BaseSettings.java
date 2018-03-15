@@ -3,7 +3,7 @@ package com.riversoft.weixin.pay.payment.wrapper;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
- * @borball on 1/13/2017.
+ * @author borball on 1/13/2017.
  */
 public class BaseSettings {
 

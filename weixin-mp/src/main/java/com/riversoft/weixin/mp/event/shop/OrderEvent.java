@@ -5,7 +5,7 @@ import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlCData;
 import com.riversoft.weixin.common.event.EventRequest;
 
 /**
- * @borball on 3/17/2016.
+ * @author borball on 3/17/2016.
  */
 public class OrderEvent extends EventRequest {
 

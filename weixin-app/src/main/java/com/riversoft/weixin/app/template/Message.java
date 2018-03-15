@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.Map;
 
 /**
- * @borball on 11/7/2016.
+ * @author borball on 11/7/2016.
  */
 public class Message {
 

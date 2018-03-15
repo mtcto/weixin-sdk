@@ -9,7 +9,7 @@ import com.riversoft.weixin.common.WxClient;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @borball on 11/7/2016.
+ * @author borball on 11/7/2016.
  */
 public class AppWxClientFactory {
 

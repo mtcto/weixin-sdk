@@ -8,7 +8,7 @@ import com.riversoft.weixin.common.util.GenderDeserializer;
 import com.riversoft.weixin.common.util.GenderSerializer;
 
 /**
- * @borball on 3/14/2016.
+ * @author borball on 3/14/2016.
  */
 public class Rule {
 

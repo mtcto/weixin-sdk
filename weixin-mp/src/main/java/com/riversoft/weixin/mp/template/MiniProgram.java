@@ -3,7 +3,7 @@ package com.riversoft.weixin.mp.template;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
- * @borball on 4/11/2017.
+ * @author borball on 4/11/2017.
  */
 public class MiniProgram {
 

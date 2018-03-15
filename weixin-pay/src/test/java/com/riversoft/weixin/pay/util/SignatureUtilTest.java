@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.SortedMap;
 
 /**
- * @borball on 6/3/2016.
+ * @author borball on 6/3/2016.
  */
 public class SignatureUtilTest {
 

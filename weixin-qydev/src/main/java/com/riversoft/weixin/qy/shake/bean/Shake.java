@@ -3,7 +3,7 @@ package com.riversoft.weixin.qy.shake.bean;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
- * @borball on 3/27/2016.
+ * @author borball on 3/27/2016.
  */
 public class Shake {
 

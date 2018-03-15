@@ -13,7 +13,7 @@ import java.io.IOException;
 
 /**
  * 小程序回调消息和事件
- * @borball on 12/29/2016.
+ * @author borball on 12/29/2016.
  */
 public class AppXmlMessages {
 

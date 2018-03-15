@@ -4,7 +4,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import com.riversoft.weixin.common.util.JsonMapper;
 
 /**
- * @borball on 8/14/2016.
+ * @author borball on 8/14/2016.
  */
 public class AccessToken {
 

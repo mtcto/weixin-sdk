@@ -3,7 +3,7 @@ package com.riversoft.weixin.pay.base;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
- * @borball on 5/15/2016.
+ * @author borball on 5/15/2016.
  */
 public class BaseResponse {
 

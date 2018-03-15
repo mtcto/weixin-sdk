@@ -12,7 +12,7 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 
 /**
- * @borball on 5/15/2016.
+ * @author borball on 5/15/2016.
  */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class PaymentNotification extends BaseResponse {

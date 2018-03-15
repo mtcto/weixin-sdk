@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import java.io.Serializable;
 
 /**
- * @borball on 11/7/2016.
+ * @author borball on 11/7/2016.
  */
 public class SessionKey implements Serializable {
 

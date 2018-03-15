@@ -11,7 +11,7 @@ import java.io.InputStream;
 
 /**
  * 二维码工具
- * @borball on 12/29/2016.
+ * @author borball on 12/29/2016.
  */
 public class QrCodes {
 

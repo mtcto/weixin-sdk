@@ -8,7 +8,7 @@ import org.junit.Test;
 import java.io.IOException;
 
 /**
- * @borball on 12/29/2016.
+ * @author borball on 12/29/2016.
  */
 public class RefundQueryTest {
 

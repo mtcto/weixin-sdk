@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * @borball on 11/7/2016.
+ * @author borball on 11/7/2016.
  */
 public class AppSetting {
 

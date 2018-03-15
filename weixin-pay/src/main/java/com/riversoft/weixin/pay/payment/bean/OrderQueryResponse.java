@@ -8,7 +8,7 @@ import com.riversoft.weixin.pay.base.BaseResponse;
 import java.util.Date;
 
 /**
- * @borball on 5/15/2016.
+ * @author borball on 5/15/2016.
  */
 public class OrderQueryResponse extends BaseResponse {
 

@@ -4,7 +4,7 @@ import com.fasterxml.jackson.annotation.JsonUnwrapped;
 import com.riversoft.weixin.pay.payment.bean.UnifiedOrderResponse;
 
 /**
- * @borball on 1/13/2017.
+ * @author borball on 1/13/2017.
  */
 public class UnifiedOrderResponseWrapper extends BaseSettings {
     @JsonUnwrapped
